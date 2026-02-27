@@ -24,7 +24,7 @@ def subtract(a, b):
     :param b: Subtrahend (valeur à soustraire).
     :return: La différence entre ``a`` et ``b``.
     """
-    return b - a
+    return a - b
 
 
 def multiply(a, b):
