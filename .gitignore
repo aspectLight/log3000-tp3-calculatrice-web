@@ -1,6 +1,15 @@
+# Python
 __pycache__/
 *.pyc
 .venv/
 venv/
-test-results.xml
 .pytest_cache/
+
+# Fichiers générés (rapports de tests)
+test-results.xml
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
