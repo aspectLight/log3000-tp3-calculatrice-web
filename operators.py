@@ -48,4 +48,4 @@ def divide(a, b):
     :param b: Dénominateur (doit être non nul).
     :return: Le quotient de ``a`` par ``b``.
     """
-    return a // b
+    return a / b
