@@ -36,7 +36,7 @@ def multiply(a, b):
     :param b: Deuxième facteur.
     :return: Le produit de ``a`` et ``b``.
     """
-    return a ** b
+    return a * b
 
 
 def divide(a, b):
